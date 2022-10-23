@@ -38,18 +38,6 @@ created - дата создания заказа
 
 Решение:
 
-1. id	event_id	event_date	type_of_ticket_id	type_of_ticket_price	type_of_ticket_quantity	barcode	user_id	equal_price	created
-1	3	21.08.2021 13:00	1	700	1	11111111	451	700	11.01.2021 13:22
-2	6	29.07.2021 18:00	2	800	2	22222222	364	1600	12.01.2021 16:52
-3	3	15.08.2021 17:00	1	700	4	33333333	15	2800	13.01.2021 10:08
-4	3	15.08.2021 17:00	2	450	3	44444444	15	1350	13.01.2021 10:08
-									
-									
-id	type_of_ticket								
-1	adult								
-2	kid								
-3	benefit								
-4	group for adult								
-5	group for kid								
+							
 ![image](https://user-images.githubusercontent.com/104136183/197403878-667789c9-e9ac-4086-b7b0-f2673078c2b1.png)
 
